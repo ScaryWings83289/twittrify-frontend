@@ -64,7 +64,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Twittrify
         </Typography>
         {isDesktop && (
           <FlexBetween
