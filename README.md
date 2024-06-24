@@ -44,12 +44,28 @@ Once the development server is running, you can access the application by naviga
 
 Here are some of the key features of the frontend:
 
-- User registration and login
-- Create, read and update posts
-- Like on posts
-- View user profiles and friend requests
-- User-friendly forms with validation using Formik
-- Responsive design using Material-UI components
+- **User Registration and Login**: Allows users to create accounts and authenticate.
+- **CRUD Operations on Posts**: Users can create, read, and update posts.
+- **Like Posts**: Provides functionality for users to like posts.
+- **User Profiles and Friend Requests**: Users can view profiles and manage friend requests.
+- **User-friendly Forms**: Implemented with validation using Formik for enhanced usability.
+- **Responsive Design**: Utilizes Material-UI components for a responsive and intuitive user interface.
+- **Theme Switching**: Supports both light and dark mode themes for user preference.
+
+
+### Screenshots
+
+Login Page:
+![](public/assets/Login.png)
+
+Posts Page:
+![](public/assets/Posts.png)
+
+Profile Page:
+![](public/assets/Profile.png)
+
+Post Creation:
+![](public/assets/Post.png)
 
 
 ### Folder Structure
